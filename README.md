@@ -1,6 +1,6 @@
 # Porfolio Site
 
-https://portfolio-three-phi-44.vercel.app/about
+https://portfolio-three-phi-44.vercel.app
 
 My portfolio website for the SevTech Software Development Graduate Program Task. Feel free to fork this repo and make modifications.
 
